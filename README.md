@@ -7,9 +7,9 @@
 
 #示例:
 
-<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem0.png' />
-<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem1.png' />
-<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem11.png' />
-<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem2.png' />
-<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem3.png' />
-<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem4.png' />
+<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem0.jpg' />
+<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem1.jpg' />
+<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem11.jpg' />
+<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem2.jpg' />
+<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem3.jpg' />
+<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem4.jpg' />

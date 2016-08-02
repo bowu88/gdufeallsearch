@@ -1,3 +1,15 @@
-1. ͨ������ϵͳץȡѧ�ţ��������ݿ�
-2. gdufe1.py��ͨ����ȡ���ݿ���ѧ�ţ���Ͻ���bugץȡ���ݣ�����excel
-3. insertscore.py�ǳ�ȡexcel�������ݿ�
+# 广东财经大学全部学生成绩查询系统
+
+1. 首先通过素拓系统抓取学号，存入数据库
+2. source文件中gdufe1.py是通过抽取数据库中学号，配合教务bug抓取数据，存入excel，insertscore.py是抽取excel存入数据库
+3. 直接运行run.bat即可，源代码可运行，但不提供源代码
+4. 需要一个关键文件 `广东财经大学学生信息.csv`
+
+#示例:
+
+<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem0.png' />
+<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem1.png' />
+<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem11.png' />
+<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem2.png' />
+<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem3.png' />
+<img src='https://raw.githubusercontent.com/hunterhug/gdufeallsearch/master/seem4.png' />
